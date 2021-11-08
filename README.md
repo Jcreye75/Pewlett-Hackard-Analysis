@@ -29,9 +29,14 @@ Four major points from the two analysis deliverables are the following:
 ## Summary: Insight into the upcoming "silver tsunami."
 1. How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
-The "silver tsunami" will have a generate 90,398 vacancies.  
+The "silver tsunami" will have a generate 90,398 vacancies, vs the mentees (1,549), huge difference between each of the Titles. First Table the Retiring Titles, second table the mentees titles.
+![Retiring_Titles](https://github.com/Jcreye75/Pewlett-Hackard-Analysis/blob/67be9aa54e5b0ddf4f5fb2dd51a351a2b4dd1e1e/Analysis%20Projects/Pewlett-Hackard-Analysis/Resources/Retiring_Titles.png)
+![Mentees_Experience](https://github.com/Jcreye75/Pewlett-Hackard-Analysis/blob/5760413106d6e21da714834358544e918dad374f/Analysis%20Projects/Pewlett-Hackard-Analysis/Resources/Mentees_Experience.png)
+
 
 2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
-Only 1,549 employees born in 1965 are potencial mentees, so the bridge between 90,398 vs 1,549 is 88,849.
+Only 1,549 employees born in 1965 are potencial mentees, so the bridge between 90,398 vs 1,549 is 88,849. So lets see how much possible mentors and/or subsitutes can be done with the peole between 1956 to 1964 (166,117 HC)and the current titles they have:
+![Possible_Mentors_56_to_64.png](https://github.com/Jcreye75/Pewlett-Hackard-Analysis/blob/5760413106d6e21da714834358544e918dad374f/Analysis%20Projects/Pewlett-Hackard-Analysis/Resources/Possible_Mentors_56_to_64.png)
+- Additional analysis on each year needs to be done in order to obtain capabilities and retirement goals.
 
